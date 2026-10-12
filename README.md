@@ -1,3 +1,3 @@
-# template-system-dev-team-repo
+# [Project name here]
 
-This template can be used to generate a working documentation platform that contains project resources, hardware design files, and firmware for embedded systems development in a team environment.
+*Insert section detailing the problem description, problem statement, and brief solution description. All other documentation and design files will be organized categorically within*
