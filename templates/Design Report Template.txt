@@ -1,5 +1,5 @@
 Introduction
-	- "The blah blah thing (that we made) is used to discover/accomplish/fix blah blah things/problems (that we identified), and we were able to do blah blah process giving us blah blah outcomes and that is what we expected/not what we expected"
+	- "The blah-blah thing (that we made) is used to discover/accomplish/fix blah blah things/problems (that we identified), and we were able to do blah blah process giving us blah blah outcomes and that is what we expected/not what we expected"
 
 Problem
 	- What problem is being addressed that motivates us to accomplish/fix/discover something?
