@@ -1,0 +1,24 @@
+# Default owner for all files in the repository
+* @Emerging-Technology-Workforce-Group/admin
+
+# Repository governance: only the repository owner reviews these files
+/.github/ @Emerging-Technology-Workforce-Group/admin
+/.github/CODEOWNERS @Emerging-Technology-Workforce-Group/admin
+
+# Firmware: embedded programming lead
+#/firmware/ @firmware-lead
+
+# Hardware: PCB design and electrical engineering lead
+#/hardware/ @hardware-lead
+
+# Mechanical design and integration lead
+#/mechanical/ @mechanical-lead
+
+# Simulation and analysis
+#/simulation/ @simulation-lead
+
+# Documentation and project coordination
+#/documentation/ @project-coordinator
+
+# Root-level project definition and requirements
+/README.md @Emerging-Technology-Workforce-Group/admin @DaVanteF

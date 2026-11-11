@@ -1,0 +1,36 @@
+Things to consider:
+Budget:
+* Cost of engine 
+* Cost of additional hardware and drilling tools
+Structure:
+* How the engine will physically connect
+* Minimum 5:1[MR1] thrust weight ratio 
+i) Weight of materials used
+ii) Weight of electronics 
+iii) Weight of the actual engine 
+
+RDDT/UDDT:
+Rocket delay drilling tool
+Universal delay drilling tool 
+Used to time chute deployment of engine by cutting off segments of the engine starter 
+
+DMS/RMS:
+Disposable Motor System (Single use)
+Reusable Motor System (Multi use)
+Super ThunderBlue ThunderRedlineCost$79 $93 $101 Motor SystemDMSRMSRMSMotor Diameter 38mm38mm38mmCasing Length 203mm213mm337mmAdditional Hardware Requirements N/ARMS-38/360RMS-38/720Total Impulse 320N-sec600N-sec597.3N-secAverage thrust 550N461N[MR2]612NPeak Thrust 667N-sec734N-sec811.7N-secThrust Duration0.57sec1.3sec1.1secDelay Timeup to 14 secup to 14 secup to 14 secDelay Drilling toolUDDT38mm RDDT38mm RDDTPropellant Weight145 g277 g324gMotor Weight315 g514 g602g
+
+
+
+
+Super Thunder:
+https://aerotech-rocketry.com/products/product_a076ec4b-9994-a841-e9f9-889bac3bddc3
+
+Blue Thunder:
+https://aerotech-rocketry.com/products/product_aca01942-6e02-d75c-25c2-6cf53a6065e5?_pos=1&_sid=3c919e679&_ss=r
+
+Redline:
+https://www.csrocketry.com/rocket-motors/aerotech-rocketry/motors/38mm/38/720-reloads/aerotech-i600r-14a-redline-rocket-motor.html
+
+
+[MR1]Shoot for a higher ratio to give wiggle room
+[MR2]Calculated from total impulse and Thrust Duration. Other values given

@@ -1,0 +1,19 @@
+
+ Agenda
+
+1. Competition Requirements & Objectives (10-20 min)
+- Review relevant competition rules, deliverables, and constraints.
+- Identify the problems the electronics system must solve.
+- Discuss interfaces with other rocket subsystems.
+2. Problem Definition & System Requirements (10-20 min)
+- Identify key functions, operational needs, and potential failure modes.
+- Draft initial system-level requirements (i.e., system shall record flight data at a defined sample rate).
+- Establish priorities and identify open questions.
+3. Component Requirements & Specifications (15-25 min) - (tentative on this, might want to spend more time on problem definitions and system-level thinking for first electronics focus meeting)
+- Break system requirements into component-level needs.
+- Identify preliminary performance, electrical, mechanical, environmental, and interface specifications.
+- Distinguish required capabilities from potential implementation solutions.
+4. Action Items & Follow-Up Planning (5-10 min)
+- Assign owners for investigating requirements and unresolved questions.
+- Identify information needed before selecting components or architectures.
+- Establish deliverables and priorities for the next meeting(s) this week.
